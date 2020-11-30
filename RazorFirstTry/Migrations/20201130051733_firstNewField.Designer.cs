@@ -10,8 +10,8 @@ using RazorFirstTry.Data;
 namespace RazorFirstTry.Migrations
 {
     [DbContext(typeof(RazorFirstTryContext))]
-    [Migration("20201129053938_initialCreate")]
-    partial class initialCreate
+    [Migration("20201130051733_firstNewField")]
+    partial class firstNewField
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -33,6 +33,9 @@ namespace RazorFirstTry.Migrations
 
                     b.Property<decimal>("Price")
                         .HasColumnType("decimal(18,2)");
+
+                    b.Property<string>("Rating")
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<DateTime>("ReleaseDate")
                         .HasColumnType("datetime2");

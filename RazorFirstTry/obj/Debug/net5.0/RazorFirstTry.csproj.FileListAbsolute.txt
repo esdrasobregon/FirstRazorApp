@@ -162,9 +162,9 @@ C:\Users\esdra\Documents\University\progra\razor\RazorFirstTry\RazorFirstTry\bin
 C:\Users\esdra\Documents\University\progra\razor\RazorFirstTry\RazorFirstTry\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\esdra\Documents\University\progra\razor\RazorFirstTry\RazorFirstTry\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\esdra\Documents\University\progra\razor\RazorFirstTry\RazorFirstTry\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\esdra\Documents\University\progra\razor\RazorFirstTry\RazorFirstTry\obj\Debug\net5.0\RazorFirstTry.csprojAssemblyReference.cache
 C:\Users\esdra\Documents\University\progra\razor\RazorFirstTry\RazorFirstTry\obj\Debug\net5.0\Razor\Pages\Movies\Create.cshtml.g.cs
 C:\Users\esdra\Documents\University\progra\razor\RazorFirstTry\RazorFirstTry\obj\Debug\net5.0\Razor\Pages\Movies\Delete.cshtml.g.cs
 C:\Users\esdra\Documents\University\progra\razor\RazorFirstTry\RazorFirstTry\obj\Debug\net5.0\Razor\Pages\Movies\Details.cshtml.g.cs
 C:\Users\esdra\Documents\University\progra\razor\RazorFirstTry\RazorFirstTry\obj\Debug\net5.0\Razor\Pages\Movies\Edit.cshtml.g.cs
 C:\Users\esdra\Documents\University\progra\razor\RazorFirstTry\RazorFirstTry\obj\Debug\net5.0\Razor\Pages\Movies\Index.cshtml.g.cs
-C:\Users\esdra\Documents\University\progra\razor\RazorFirstTry\RazorFirstTry\obj\Debug\net5.0\RazorFirstTry.csprojAssemblyReference.cache
